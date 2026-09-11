@@ -1,0 +1,6 @@
+{
+  "name": "Automotive FG Traceability & Dispatch System",
+  "description": "End-to-end finished goods traceability system for automotive manufacturing covering packaging with Mother QR codes, primary dispatch & customer marriage, intercompany transfers, and QA containment recalls.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
